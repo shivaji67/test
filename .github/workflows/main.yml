@@ -29,4 +29,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/shiva
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/shivaji67/shiva
